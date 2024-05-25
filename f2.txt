@@ -1,0 +1,14 @@
+What is Operating system?
+=> It is a software which acts as mediator between users and computers
+
+=> Users will communicate with computers using Operating System (OS)
+
+=> Without OS we can't use any computer
+
+=> OS provides platform/environment to use computers
+
+	Ex: Notepad, Calculator, Browsers....etc
+
+=> We have several Operating Systems in market
+
+		Ex: Windows, Linux, MAC, Android, IOS.....
