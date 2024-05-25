@@ -1,0 +1,18 @@
+Where we will use Linux in Realtime ?
+======================================
+
+To setup Tomcat server
+
+To setup jenkins
+
+To setup docker
+
+To setup k8s
+
+To setup sonar
+
+To setup nexus
+
+To setup ELK
+
+To store logs
